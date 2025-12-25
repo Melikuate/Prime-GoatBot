@@ -1,7 +1,128 @@
-paste your cookie here.
-
-
-
-
-
-আপনার কিউই ব্রাওযার থেকে নেয়া কুকি এখানে পেস্ট করুন।
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261585156962729%22%3A%22xDocIP9F%22%2C%2261584736601862%22%3A%228crJGw9B%22%2C%2261585566303810%22%3A%22ToHGvzse%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2025-12-25T08:57:40.012Z",
+        "lastAccessed": "2025-12-25T08:57:40.013Z"
+    },
+    {
+        "key": "datr",
+        "value": "h2dIaVyjrgklICIkT3GVzdux",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-25T08:57:40.013Z",
+        "lastAccessed": "2025-12-25T08:57:40.013Z"
+    },
+    {
+        "key": "sb",
+        "value": "imdIaSl4zpvDaIGyc5hYac4t",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-25T08:57:40.013Z",
+        "lastAccessed": "2025-12-25T08:57:40.013Z"
+    },
+    {
+        "key": "dpr",
+        "value": "2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-25T08:57:40.013Z",
+        "lastAccessed": "2025-12-25T08:57:40.013Z"
+    },
+    {
+        "key": "locale",
+        "value": "fr_FR",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-25T08:57:40.013Z",
+        "lastAccessed": "2025-12-25T08:57:40.013Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B620x360x2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-25T08:57:40.013Z",
+        "lastAccessed": "2025-12-25T08:57:40.013Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-25T08:57:40.013Z",
+        "lastAccessed": "2025-12-25T08:57:40.013Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-25T08:57:40.013Z",
+        "lastAccessed": "2025-12-25T08:57:40.013Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61585566303810",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-25T08:57:40.013Z",
+        "lastAccessed": "2025-12-25T08:57:40.013Z"
+    },
+    {
+        "key": "xs",
+        "value": "24%3AhwWdjGfTjAdWgw%3A2%3A1766652010%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-25T08:57:40.013Z",
+        "lastAccessed": "2025-12-25T08:57:40.013Z"
+    },
+    {
+        "key": "pas",
+        "value": "61585156962729%3AS4s2AgmHoK%2C61584736601862%3A5ieBPgGvnq%2C61585566303810%3Ab3Tbt476Nw",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-25T08:57:40.013Z",
+        "lastAccessed": "2025-12-25T08:57:40.013Z"
+    },
+    {
+        "key": "fr",
+        "value": "15j0TBi9JdfiiJISm.AWeSgiPJPAhygFmIJ2GWsP1ymvAp3HUVLygHoEYtH31mfQPwW5Q.BpSWoP..AAA.0.0.BpTPx7.AWf7y7vJGzWoN-qA4uU6cxOxXHk",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-25T08:57:40.013Z",
+        "lastAccessed": "2025-12-25T08:57:40.013Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3029%3Btimestamp%3A1766653051",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-25T08:57:40.013Z",
+        "lastAccessed": "2025-12-25T08:57:40.013Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101320159%3BT%3A29444217",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-12-25T08:57:40.013Z",
+        "lastAccessed": "2025-12-25T08:57:40.013Z"
+    }
+]
