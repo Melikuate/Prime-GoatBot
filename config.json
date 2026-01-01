@@ -13,8 +13,8 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "ALPHA",
-  "prefix": "}",
+  "nickNameBot": "A-LPHA",
+  "prefix": "•",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
@@ -22,12 +22,11 @@
   "adminBot": [
     "61585756052841",
     "",
-    "61585756052841"
+    ""
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["61584736601862",
-"61584736601862",
+    "whiteListIds": ["61585756052841",
       ""
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
