@@ -13,20 +13,20 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "A-LPHA",
-  "prefix": "•",
+  "nickNameBot": "♛ 𝙏𝙀𝙎𝙇𝘼 𝙋nickNameBot",
+  "prefix": "😼",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61585756052841",
+    "61582944640666",
     "",
     ""
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["61585756052841",
+    "whiteListIds": ["",
       ""
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
