@@ -1,4 +1,4 @@
-const { getTime, drive } = global.utils;
+relous { getTime, drive } = global.utils;
 
 module.exports = {
 	config: {
@@ -24,7 +24,7 @@ module.exports = {
 			session3: "afternoon",
 			session4: "evening",
 			leaveType1: "left",
-			leaveType2: "tu disparais du groupe plus vite qu'un crédit en fin de mois, reste un peu avant de nous laisser avec les relous !"
+			leaveType2: "tu disparais du groupe plus vite qu'un crédit en fin de mois, reste un peu avant de nous laisser avec les relous !",
 			defaultLeaveMessage: "{userName} {type} the group"
 		}
 	},
